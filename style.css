@@ -1,0 +1,78 @@
+
+
+
+                   body {
+                     font-family: Arial, sans-serif;
+                     background-color: #d21f1f;
+                     margin: 0;
+                 }
+                 
+                 header { 
+                     background-color: #a2835b;
+                     color: rgb(0, 0, 0);
+                     text-align: center;
+                     padding: 20px;
+                 }
+                 
+                 nav a { 
+                     color: rgb(3, 3, 3);
+                     margin: 10px;
+                     text-decoration: none;
+                 }
+                 
+                 main {
+                     width: 80%;
+                     margin: auto;
+                 }
+                 
+                 div { 
+                     background-color: white;
+                     margin: 20px 0;
+                     padding: 20px;
+                 }
+                 
+                 h2 {
+                     color: #c01919;
+                 }
+                 
+                 img {
+                     display: block;
+                     margin: auto;
+                     max-width: 100%;
+                 }
+                 
+                 table {
+                     width: 100%;
+                     border-collapse: collapse;
+                     color: rgb(8, 8, 10);
+                 }
+                 
+                 th, td {
+                     border: 1px solid black;
+                     padding: 10px;
+                     text-align: center;
+                 }
+                 
+                 th {
+                     background-color: #222222;
+                     color: rgb(174, 174, 165);
+                 }
+                 
+                 input, textarea {
+                     padding: 8px;
+                 }
+                 
+                 input[type="submit"] {
+                     background-color: #222222;
+                     color: white;
+                     border: none;
+                     padding: 10px 20px;
+                 }
+                 
+                 footer {
+                     background-color: #222222;
+                     color: rgb(119, 139, 26);
+                     text-align: center;
+                     padding: 15px;
+                 }
+
